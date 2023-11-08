@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "set": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
