@@ -8,6 +8,7 @@ int reverse(int ans, int num)
     ans=ans*10 +num%10;
     return reverse(ans,num/10);
 }
+
 int main()
 {
     int num=12345;
