@@ -1,16 +1,25 @@
 {
-    "files.associations": {
-        "string": "cpp",
-        "iostream": "cpp",
-        "vector": "cpp",
-        "set": "cpp",
-        "deque": "cpp",
-        "functional": "cpp",
-        "list": "cpp",
-        "map": "cpp",
-        "unordered_map": "cpp",
-        "unordered_set": "cpp",
-        "ostream": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+  "files.associations": {
+    "string": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "set": "cpp",
+    "deque": "cpp",
+    "functional": "cpp",
+    "list": "cpp",
+    "map": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "ostream": "cpp",
+    "__node_handle": "cpp",
+    "__split_buffer": "cpp",
+    "array": "cpp",
+    "forward_list": "cpp",
+    "queue": "cpp",
+    "regex": "cpp",
+    "stack": "cpp",
+    "string_view": "cpp",
+    "filesystem": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
